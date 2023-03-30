@@ -5,4 +5,4 @@
 
 ## Technologies I used :
 
-- **[ HTML , CSS , Flex-Box ]**
+- **[ HTML , CSS , Flex-Box, Grid ]**
